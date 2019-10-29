@@ -1,5 +1,5 @@
 # 行為準則 Code of Conduct
-### 20191029總召 朱庭宏
+### 20191029 by 總召 朱庭宏
 ## 緣起
 > OpenCV是電腦視覺很方便的函式庫，而VSCODE則為目前主流的IDE，VSCODE中有許多由開源人貢獻的EXTENSION，但卻沒能找到OpenCV的EXTENSION，為了增加coding效率，因這樣的需求，由一群學生自行組成的社群就這樣誕生了!
 ## 一個逐漸成形的開源社群
