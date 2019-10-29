@@ -7,4 +7,3 @@
 * Add Status Bar Msg
 ## [0.0.3]
 * Add 12 API
-
