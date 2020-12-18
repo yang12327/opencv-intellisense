@@ -1,9 +1,9 @@
 {
 	"name": "opencv-intellisense",
-	"publisher": "did1335",
+	"publisher":"did1335",
 	"displayName": "OpenCV-intellisense",
 	"description": "OpenCV Intellisense",
-	"version": "0.0.4",
+	"version": "0.0.3",
 	"engines": {
 		"vscode": "^1.38.0"
 	},
@@ -22,7 +22,7 @@
 				"title": "OpenCV Intellisense"
 			}
 		]
-	},
+	},	
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
 		"compile": "tsc -p ./",
@@ -41,7 +41,7 @@
 		"tslint": "^5.12.1",
 		"vscode-test": "^1.2.0"
 	},
-	"repository": {
+	"repository":{
 		"type": "git",
 		"url": "https://did1335.visualstudio.com/OpenCV/_git/OpenCV"
 	},
